@@ -47,6 +47,7 @@
 * [Hip Hop Mixtapes](https://tinyurl.com/y4znz45t) - (MP3, Big Library, DDL)
 * [BeeMP3](https://tinyurl.com/ldmpr6g) - (MP3, Medium Library, DDL)
 * [SMLoadr](https://tinyurl.com/yy7h9tdd) - (A streaming music downloader for PC)
+* [Deezloader Android](https://tinyurl.com/yyywncck) - (FLAC/MP3, Huge Library, DDL, On PC/Mac via [Emulator](https://tinyurl.com/y5kym3pp))
 
 **Radio/Podcasts**
 
