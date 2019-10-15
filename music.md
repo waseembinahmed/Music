@@ -26,8 +26,8 @@
 * [Muxiv](https://tinyurl.com/y3uywcda) - (Japanese, Big Library)
 * [Gaana](https://tinyurl.com/yaknpkjq) - (Indian, Big Library)
 * [hungama](https://tinyurl.com/y5arqz3c) - (Indian, Big Library)
-* [Khinsider](https://tinyurl.com/y977p8j4) - (Video Games Soundtracks, Big Library)
-* [Audionautix](https://tinyurl.com/y2kk9a35) - (Stream songs based on genre)
+* [Khinsider](https://tinyurl.com/y977p8j4) - (Video Game Soundtracks, Big Library)
+* [Audionautix](https://tinyurl.com/y2kk9a35) - (Picks a songs based on genre)
 
 **Download**
 
