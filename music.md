@@ -6,7 +6,7 @@
 
 **Stream**
 
-* [**Spotify**](https://tinyurl.com/pwrdtpz) - (Music Streaming, Huge Library) + [**Desktop App**](https://tinyurl.com/y2muobwc)
+* [**Spotify**](https://tinyurl.com/pwrdtpz) - (Music Streaming, Huge Library) + [**Desktop App**](https://tinyurl.com/y2muobwc) & [Block Ads](https://tinyurl.com/y3vcqbc6)
 * [**Spotify Android (Modded)**](https://tinyurl.com/y4267v5e) - (No Ads, High Quality, On PC/Mac via [Emulator](https://tinyurl.com/y5kym3pp)) + [Check Updates](https://tinyurl.com/y6gde63b)
 * [**Youtube Music**](https://tinyurl.com/qa2eg8d) - (Music Videos, Huge Library) + [YT to MP3](https://tinyurl.com/y3ozslk7)
 * [**Reddit Music Player**](https://tinyurl.com/y667vgmd) - (Subreddit Music, Huge Library)
@@ -17,6 +17,7 @@
 * [JustHearIt](https://tinyurl.com/yyacuvhx) - (Music Streaming, Medium Library)
 * [MusicPleer](https://tinyurl.com/y274w47p) - (Music Streaming, Medium Library)
 * [AudioMack](https://tinyurl.com/n2qpwo6) - (Music Streaming, Medium Library)
+* [RedMP3](https://tinyurl.com/yy6684zq) - (Music Streaming, Medium Libray)
 * [HypeMachine](https://tinyurl.com/yddwszob) - (Rising Music, Medium Library)
 * [datPiff](https://tinyurl.com/yc2kdqrv) - (Mixtapes, Medium Library)
 * [PumpYouUp](https://tinyurl.com/yxv96f35) - (Indie Dubstep, Small Library)
@@ -26,13 +27,16 @@
 * [Muxiv](https://tinyurl.com/y3uywcda) - (Japanese, Big Library)
 * [Gaana](https://tinyurl.com/yaknpkjq) - (Indian, Big Library)
 * [hungama](https://tinyurl.com/y5arqz3c) - (Indian, Big Library)
+* [Music.163](https://bit.ly/2woyzEO) - (Asian, Big Library)
+* [Chiasenhac](https://tinyurl.com/yy5b5zgd) - (Asian, Big Library)
+* [myzuka](https://tinyurl.com/y29u83uj) - (Russian, Big Library)
 * [Khinsider](https://tinyurl.com/y977p8j4) - (Video Game Soundtracks, Big Library)
 * [Audionautix](https://tinyurl.com/y2kk9a35) - (Picks a songs based on genre)
 
 **Download**
 
 * **Important** - Get a [**VPN**](https://tinyurl.com/y4o6qrgz) before torrenting. 
-* [**Deezloader Remix 4.2.3 Beta**](https://tinyurl.com/y4uo6k5c) - (PC, Mac, Linux, FLAC/MP3, Huge Library, DDL) + [Android](https://tinyurl.com/yyywncck)
+[**Deezloader Remix 4.2.3 Beta**](https://tinyurl.com/y4uo6k5c) - (PC, Mac, Linux, FLAC/MP3, Huge Library, DDL) + [Android](https://tinyurl.com/yyywncck)
 * [**Kingdom-Leaks**](https://tinyurl.com/y5725sqg) - (MP3, Huge Library, DDL)
 * [**Public Trackers**](https://tinyurl.com/y2rfhvsy) - (Multiple File Types, Huge Libraries, Torrents)
 * [**Metal-Tracker**](https://tinyurl.com/y4x9g85r) - (MP3, Metal, Big Library, DDL)
@@ -45,9 +49,12 @@
 * [MP3 Music DL](https://tinyurl.com/y5ypuujn) - (iTunes Plus AAC M4A, Medium Library, DDL)
 * [Scnlog](https://tinyurl.com/y934cds6) - (MP3, Big Library, DDL)
 * [4Shared](https://tinyurl.com/y36fdqas) - (MP3, Big Library, DDL)
+* [Uloz](https://tinyurl.com/y4zjjbxu) - (MP3, Big Library, DDL)
 * [Song Lovers](https://tinyurl.com/y3lo62yc) - (MP3, Big Library, DDL)
 * [Sound-Park](https://tinyurl.com/y676tq7k) - (FLAC, Big Library, Torrent)
 * [Hip Hop Mixtapes](https://tinyurl.com/y4znz45t) - (MP3, Big Library, DDL)
+* [94HipHop](https://tinyurl.com/y4yu5udz) - (MP3, Big Library, DDL)
+* [RapUpload](https://tinyurl.com/y2ap6swu) - (MP3, Big Library, DDL)
 * [BeeMP3](https://tinyurl.com/ldmpr6g) - (MP3, Medium Library, DDL)
 * [SMLoadr](https://tinyurl.com/yy7h9tdd) - (A streaming music downloader for PC)
 
