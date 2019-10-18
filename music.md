@@ -6,8 +6,8 @@
 
 **Stream**
 
-* [**Spotify**](https://tinyurl.com/pwrdtpz) - (Music Streaming, Huge Library) + [**Desktop App**](https://tinyurl.com/y2muobwc) & [Block Ads](https://tinyurl.com/y3vcqbc6)
-* [**Spotify Android (Modded)**](https://tinyurl.com/y4267v5e) - (No Ads, High Quality, On PC/Mac via [Emulator](https://tinyurl.com/y5kym3pp)) + [Check Updates](https://tinyurl.com/y6gde63b)
+* [**Spotify**](https://tinyurl.com/pwrdtpz) - (Music Streaming, Huge Library) + [Desktop App](https://tinyurl.com/y2muobwc) & [Block Ads](https://tinyurl.com/y3vcqbc6)
+* [**Spotify Android** (Modded)](https://tinyurl.com/y4267v5e) - (No Ads, High Quality, On PC/Mac via [Emulator](https://tinyurl.com/y5kym3pp)) + [Check Updates](https://tinyurl.com/y6gde63b)
 * [**Youtube Music**](https://tinyurl.com/qa2eg8d) - (Music Videos, Huge Library) + [YT to MP3](https://tinyurl.com/y3ozslk7)
 * [**Reddit Music Player**](https://tinyurl.com/y667vgmd) - (Subreddit Music, Huge Library)
 * [**Soundcloud**](https://tinyurl.com/b7h9nfb) - (User Made Music, Huge Library) 
