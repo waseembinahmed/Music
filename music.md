@@ -42,6 +42,7 @@
 * [ZOMB Torrents](https://tinyurl.com/5gua5k) - (Lossless Music Sharing Forum)
 * [MP3Juices](https://tinyurl.com/yyhemsjk) or [MP3Skull](https://tinyurl.com/y5r3e4xk) - (MP3, Big Library, DDL)
 * [MP3 Music DL](https://tinyurl.com/y5ypuujn) - (iTunes Plus AAC M4A, Medium Library, DDL)
+* [Scnlog](https://tinyurl.com/y934cds6) - (MP3, Big Library, DDL)
 * [4Shared](https://tinyurl.com/y36fdqas) - (MP3, Big Library, DDL)
 * [Song Lovers](https://tinyurl.com/y3lo62yc) - (MP3, Big Library, DDL)
 * [Sound-Park](https://tinyurl.com/y676tq7k) - (FLAC, Big Library, Torrent)
