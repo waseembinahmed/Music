@@ -32,7 +32,7 @@
 **Download**
 
 * **Important** - Get a [**VPN**](https://tinyurl.com/y4o6qrgz) before torrenting. 
-* **Deezloader Remix** - Windows - [32bit](https://tinyurl.com/yxnffqsq), [64bit](https://tinyurl.com/yyl3wl8f), Linux - [x86_64](https://tinyurl.com/y2mxgy2q), [i386](https://tinyurl.com/y2mxgy2q), [Mac](https://tinyurl.com/yxo5uy63), [Android](https://tinyurl.com/yyywncck) - (FLAC/MP3, Huge Library, DDL)
+* **Deezloader Remix v4.2.3** - Windows - [x32](https://tinyurl.com/yxnffqsq), [x64](https://tinyurl.com/yyl3wl8f), Linux - [x86_64](https://tinyurl.com/y2mxgy2q), [i386](https://tinyurl.com/y2mxgy2q), [Mac](https://tinyurl.com/yxo5uy63), [Android](https://tinyurl.com/yyywncck) - (FLAC/MP3, Huge Library, DDL)
 * [**Kingdom-Leaks**](https://tinyurl.com/y5725sqg) - (MP3, Huge Library, DDL)
 * [**Public Trackers**](https://tinyurl.com/y2rfhvsy) - (Multiple File Types, Huge Libraries, Torrents)
 * [**Metal-Tracker**](https://tinyurl.com/y4x9g85r) - (MP3, Metal, Big Library, DDL)
