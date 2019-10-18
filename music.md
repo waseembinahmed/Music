@@ -35,7 +35,7 @@
 * [**Kingdom-Leaks**](https://tinyurl.com/y5725sqg) - (MP3, Huge Library, DDL)
 * [**Public Trackers**](https://tinyurl.com/y2rfhvsy) - (Multiple File Types, Huge Libraries, Torrents)
 * [**Metal-Tracker**](https://tinyurl.com/y4x9g85r) - (MP3, Metal, Big Library, DDL)
-[Slider.kz](https://tinyurl.com/yygmtore), [My Free Mp3](https://tinyurl.com/y89om7wl) or [denr01](https://tinyurl.com/yy3lxw57) - (MP3, Big Library, DDL)
+* [Slider.kz](https://tinyurl.com/yygmtore), [My Free Mp3](https://tinyurl.com/y89om7wl) or [denr01](https://tinyurl.com/yy3lxw57) - (MP3, Big Library, DDL)
 * [Take Metal](https://tinyurl.com/y6txa9d2) - (MP3, Metal, Big Library, DDL)
 * [eMP3](https://tinyurl.com/y6ctlhrl) - (MP3, MP4, Big Library, DDL)
 * [New Album Releases](https://tinyurl.com/kd2yaa) - (MP3, Big Library, DDL)
