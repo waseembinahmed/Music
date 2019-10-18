@@ -37,6 +37,7 @@
 * [**Metal-Tracker**](https://tinyurl.com/y4x9g85r) - (MP3, Metal, Big Library, DDL)
 * [Take Metal](https://tinyurl.com/y6txa9d2) - (MP3, Metal, Big Library, DDL)
 * [eMP3](https://tinyurl.com/y6ctlhrl) - (MP3, MP4, Big Library, DDL)
+* [My Free Mp3](https://tinyurl.com/y89om7wl) - (MP3, Big Library, DDL)
 * [New Album Releases](https://tinyurl.com/kd2yaa) - (MP3, Big Library, DDL)
 * [ZOMB Torrents](https://tinyurl.com/5gua5k) - (Lossless Music Sharing Forum)
 * [MP3Juices](https://tinyurl.com/yyhemsjk) or [MP3Skull](https://tinyurl.com/y5r3e4xk) - (MP3, Big Library, DDL)
